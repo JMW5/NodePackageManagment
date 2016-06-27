@@ -1,6 +1,6 @@
 {
-  "name": "npm-manager",
-  "version": "1.0.0",
+  "name": "@jacwynn/npm-manager",
+  "version": "3.2.1",
   "description": "Node Package Management",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
